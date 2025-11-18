@@ -4,12 +4,14 @@ In this Project I am creating a the Project overview,Dataset Description,Project
 Fashion Sales Analysis – Excel Project
 
 Project Overview
+
 This project analyzes Fashion Store sales data using Excel.
 It includes data cleaning, descriptive statistics, diagnostic analysis, forecasting, and recommendations to improve business performance.
 The report is supported with PivotTables, charts, dashboards, and a summary of insights.
 ________________________________________ 
 
 Dataset Description
+
 The dataset contains fashion sales information with fields such as:
 •	Date
 •	Product Category
@@ -22,6 +24,7 @@ The dataset contains fashion sales information with fields such as:
 ________________________________________
 
  Project Objectives
+ 
 •	Clean and prepare the dataset.
 •	Identify sales patterns and customer preferences.
 •	Find reasons behind trends and performance changes.
@@ -30,6 +33,7 @@ ________________________________________
 ________________________________________
  
  Features of This Excel Report
+ 
 •	✔️ Automated PivotTables for analysis
 •	✔️ Interactive dashboard with slicers & filters
 •	✔️ Combo charts, bar charts, line charts & pie charts
@@ -66,6 +70,7 @@ Types of Analysis Performed
 ________________________________________
 
  PivotTables Used
+ 
 •	Sales by Category
 •	Sales by Region
 •	Sales Trend by Month
@@ -74,6 +79,7 @@ ________________________________________
 ________________________________________
 
  Charts Used
+ 
 •	Column chart – Category sales
 •	Line chart – Sales trend
 •	Pie chart – Region distribution
@@ -82,6 +88,7 @@ ________________________________________
 ________________________________________
  
  Key Insights
+ 
 •	Top-performing categories
 •	Slow-moving products
 •	Best sales region
@@ -89,10 +96,12 @@ ________________________________________
 ________________________________________
  
  Conclusion
+ 
 The analysis provides a complete understanding of fashion sales performance, highlights improvement areas, and helps guide business decisions with forecasting and strategic recommendations.
 ________________________________________
  
  How to Use This File
+ 
 1.	Download the Excel file from the repository.
 2.	Open it in MS Excel 365 or Excel 2019+.
 3.	Use slicers & filters on the dashboard to explore insights.
